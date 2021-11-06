@@ -13,6 +13,7 @@ public static void main(String[] args) {
 	hs.add(40);
 	hs.add(50);
 	hs.add(60);
+	hs.add(100000);
 	hs.add(70);
 	hs.add(80);
 	hs.add(90);
